@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "classmap": [
+            "blackjack_game/"
+        ]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    },
+    "scripts": {
+        "test": "phpunit"
+    }
+}
